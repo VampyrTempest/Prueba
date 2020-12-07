@@ -1,0 +1,472 @@
+html{
+    overflow-x: hidden;
+}
+
+/*Sección Top*/
+.menú{
+	position: relative;
+	left: -25px
+}
+.menú h5{
+position: absolute;
+margin-top: 18.5%;
+margin-left: -15%;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 38px;
+color: #0F1C49;
+}
+.menú img{
+	margin-top: 51%;
+}
+.nav-link_Home{
+position: absolute;
+height: 28px;
+left: 0%;
+right: 92.28%;
+top: 55%;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+.nav-link_About{
+position: absolute;
+height: 56px;
+left: 14.25%;
+right: 70%;
+top: 55%;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #0F1C49;
+
+}
+.nav-link_Department{
+position: absolute;
+height: 28px;
+left: 40.53%;
+right: 43.68%;
+top: 55%;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+.nav-link_Contact_Us{
+position: absolute;
+height: 28px;
+left: 66.84%;
+right: 18.6%;
+top: 55%;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+
+}
+.nav-link_Pages{
+position: absolute;
+height: 28px;
+left: 91.93%;
+right: 0%;
+top: 55%;
+
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+
+.nav-link_Appointment{
+position: absolute;
+height: 17px;
+left: 53.5%;
+right: 15.24%;
+top: 62%;
+width: 110%;
+font-family: 'Rubik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #09A4D8;
+}
+.Slider_Contact_Us img{
+	margin-top: 3%;
+	margin-left: -6.8%;
+	margin-bottom: 8.5%;
+}
+
+/*Sección Body*/
+
+.Location{
+	position: relative;
+	top: 107px;
+	right: -0.5%;
+}
+.London h4{
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 38px;
+	/* identical to box height, or 158% */
+
+	display: flex;
+	align-items: center;
+
+	color: #0F1C49;
+}
+.Direction_London{
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* or 175% */
+
+	width: 50%;
+	display: flex;
+	align-items: center;
+
+	color: #878DA4;
+}
+.Horario_London{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height, or 175% */
+
+	top: -25px;
+
+	display: flex;
+	align-items: center;
+
+	color: #0F1C49;
+}
+.Phone_London{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height, or 175% */
+
+	top: -45px;
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+	text-decoration-line: underline;
+
+	color: #09A4D8;
+
+}
+.San_Francisco h4{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 38px;
+	/* identical to box height, or 158% */
+ 
+ 	top: -62px;
+
+	display: flex;
+	align-items: center;
+
+	color: #0F1C49;
+}
+.Direction_San_Francisco{
+	position: relative;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* or 175% */
+
+	width: 65%;
+	top: -60px;
+
+	display: flex;
+	align-items: center;
+
+	color: #878DA4;
+
+}
+.Horario_San_Francisco{
+	position: relative;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height, or 175% */
+
+	top: -83px;
+
+	display: flex;
+	align-items: center;
+
+	color: #0F1C49;
+}
+.Phone_San_Francisco{
+	position: relative;
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* identical to box height, or 175% */
+
+	top: -98px;
+
+	display: flex;
+	align-items: center;
+	text-decoration-line: underline;
+
+	color: #09A4D8;
+}
+
+/*Social media*/
+
+.Social_Media img{
+	position: relative;
+	width: 265px;
+	height: 28px;
+	right: 530px;
+	top: 738px;
+}
+
+/*Form*/
+
+.Form{
+	position: absolute;
+	width: 670px;
+	height: 816px;
+	left: 640px;
+	top: 625px;
+
+	background: #F8FBFC;
+	border-radius: 16px;
+}
+.heading h4{
+	position: absolute;
+	width: 411px;
+	height: 48px;
+	left: 85px;
+	top: 77px;
+
+	font-family: 'Roboto Slab', serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: 48px;
+	/* identical to box height, or 150% */
+
+	display: flex;
+	align-items: center;
+
+	color: #0F1C49;
+}
+.heading p{
+	position: absolute;
+	width: 470px;
+	height: 56px;
+	left: 85px;
+	top: 145px;
+
+	font-family: 'Rubik', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	/* or 175% */
+
+	display: flex;
+	align-items: center;
+
+	color: #878DA4;
+} 
+.controls{
+	position: relative;
+	left: 70px;
+	top: 213px;
+	width: 100%;
+	padding: 17px;
+	margin-bottom: 15px;
+
+	border: 1px #EEEEEE;
+}
+.mensaje{
+	padding: 85px;
+}
+.boton{
+	position: relative;
+	left: 70px ;
+	width: 98%;
+	top: 235px;
+	padding: 12px;
+
+	color: white;
+	font-family: 'Rubik', sans-serif;
+
+	background: #09A4D8;
+	border: #09A4D8;
+	border-radius: 8px;
+}
+
+	
+/*Footer*/
+.BottomHome {
+	margin-top: 19.6%;
+	background: #0E418A;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.BottomHome p{
+	opacity: 60%;
+}
+.BottomHome h4{
+	margin-top: 165%;
+	margin-bottom: 27%;
+	font-size: 20px;
+}
+.columnas p{
+	margin-bottom: 10%;
+	line-height: 28px;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;
+	margin-bottom: 7.5%;
+
+}
+.info {
+	left: 10%;
+	position: absolute;
+	padding-top: 13.5%;
+	width: 30%;
+}
+.info img{
+	position: ;
+}
+.redes_sociales img{
+	padding-right: 10%;
+	margin-top: 12%;
+}
+.divisor img{
+	padding-top: 6%;
+}
+.about_us img{
+	margin-top: 90.5%;
+	margin-bottom: 165%;
+}
+.about_us p{
+	margin-top: 13.3%;
+	margin-left: 3%;
+	line-height: 28px;
+	width: 85%;
+}
+.seccion2{
+	position: relative;
+}
+.stay_up{
+	position: absolute;
+	width: 100%;
+	margin-top: 5.5%;
+	margin-bottom: 10%;
+}
+#YourEmail{
+	border-color: #FFFFFF;
+	border: groove;
+	border-width: 2px;
+	padding: 5%;
+	font-size: 14px;
+	border-radius: 5px;
+	margin-top: 5%;
+	padding-left: 10%;
+	padding-right: 50%;
+}
+#Send{
+	background: #FFFFFF;
+	color: #0F1C49;
+	opacity: 100%;
+	margin-top: 21%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	padding-left: 30%;
+	padding-right: 0%;
+	margin-left: -62%;
+	font-weight: 500px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#Lorem {
+ 	margin-right: 13%
+ 	font-size: 16px;
+}
+.copyright{
+	background: #103365;
+	height: 100%;
+}
+.copyright p{
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	font-size: 14px;
+	color: rgba(255, 255, 255, 0.6);
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif; 
+}
+
+
+
+
+
+

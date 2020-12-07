@@ -1,0 +1,346 @@
+html{
+    overflow-x: hidden;
+}
+.menú h5{
+position: absolute;
+margin-top: 18.5%;
+margin-left: -15%;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 38px;
+color: #0F1C49;
+}
+.menú img{
+	margin-top: 51%;
+}
+.nav-link_Home{
+position: absolute;
+height: 28px;
+left: 0%;
+right: 92.28%;
+top: 55%;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+.nav-link_About{
+position: absolute;
+height: 56px;
+left: 14.25%;
+right: 70%;
+top: 55%;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #0F1C49;
+
+}
+.nav-link_Department{
+position: absolute;
+height: 28px;
+left: 40.53%;
+right: 43.68%;
+top: 55%;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+.nav-link_Contact_Us{
+position: absolute;
+height: 28px;
+left: 66.84%;
+right: 18.6%;
+top: 55%;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+
+}
+.nav-link_Pages{
+position: absolute;
+height: 28px;
+left: 91.93%;
+right: 0%;
+top: 55%;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #878DA4;
+}
+.nav-link_Appointment{
+	position: absolute;
+height: 17px;
+left: 53.5%;
+right: 15.24%;
+top: 62%;
+width: 110%;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #09A4D8;
+}
+.Slider_Department img{
+	margin-top: 3%;
+	margin-left: -6.8%;
+	margin-bottom: 8.5%;
+}
+.card-header{
+	background: #09A4D8;
+	border-radius: 16px;
+}
+.lista_department{
+	margin-left: 11.5%;
+	width: 106%;
+	border: transparent;
+	border-radius: 16px;
+	background: #E9F0F2;
+}
+
+.card-header h5{
+	font-weight: 500px;
+	font-size: 24px;
+	font-family: 'Rubik', sans-serif; 
+	line-height: 32.5px;
+	color: #FFFFFF;
+	padding-left: 4%;
+	padding-top: 2%;
+}
+.card-text{
+	margin-top: -1.7%;
+	margin-left: 4%;
+}
+.card-text p{
+	font-weight: 400px;
+	font-size: 16px;
+	font-family:  'Rubik', sans-serif; 
+	color: #878DA4;
+	line-height: 29px;
+	margin-top:
+}
+.card-text img{
+	position: absolute;
+	margin-left: 79.5%;
+	margin-top: 2%;
+}
+#The_last{
+	margin-bottom: -.5%;
+}
+#eye_care{
+	margin-bottom: 5.3%;
+}
+.mucho-texto h3{
+	font-weight: 500px;
+	font-size: 24px;
+	font-family: 'Rubik', sans-serif;  
+	color: #0F1C49;
+	line-height: 38px;
+	margin-bottom: 2.3%;
+	margin-left: -2%;
+	margin-top: 5.7%;
+}
+.mucho-texto p{
+	font-weight: normal;
+	font-size: 16px;
+	font-family: 'Rubik', sans-serif;  
+	font-family: 
+	color: #878DA4;
+	line-height: 28px;
+	width: 107%;
+	margin-left: -2%;
+}
+.otra_tabla{
+	margin-top: 2.5%;
+	margin-left: 2.5%;
+}
+.otra_tabla h1{
+	font-family: Rubik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 37px;
+letter-spacing: 0px;
+text-align: center;
+color: #878DA4;
+}
+.otra_tabla h2{
+	position: absolute;
+color: rgba(135, 141, 164, 1);
+font-family: Rubik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 37px;
+letter-spacing: 0px;
+text-align: center;
+margin-left: 38.2%;
+}
+.related_information h3{
+	font-family: Rubik;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+color: rgba(15, 28, 73, 1);
+margin-top: 3.4%;
+margin-bottom: 2%;
+margin-left: -.1%;
+}
+.related_information p{
+	font-family: Rubik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+color: background: rgba(135, 141, 164, 1);
+}
+.BottomHome {
+	margin-top: 19.6%;
+	background: #0E418A;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.BottomHome p{
+	opacity: 60%;
+}
+.BottomHome h4{
+	margin-top: 165%;
+	margin-bottom: 27%;
+	font-size: 20px;
+}
+.columnas p{
+	margin-bottom: 10%;
+	line-height: 28px;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;
+	margin-bottom: 7.5%;
+
+}
+.info {
+	left: 10%;
+	position: absolute;
+	padding-top: 13.5%;
+	width: 30%;
+}
+.info img{
+	position: ;
+}
+.redes_sociales img{
+	padding-right: 10%;
+	margin-top: 12%;
+}
+.divisor img{
+	padding-top: 6%;
+}
+.about_us img{
+	margin-top: 90.5%;
+	margin-bottom: 165%;
+}
+.about_us p{
+	margin-top: 13.3%;
+	margin-left: 3%;
+	line-height: 28px;
+	width: 85%;
+}
+.seccion2{
+	position: relative;
+}
+.stay_up{
+	position: absolute;
+	width: 100%;
+	margin-top: 5.5%;
+	margin-bottom: 10%;
+}
+#YourEmail{
+	border-color: #FFFFFF;
+	border: groove;
+	border-width: 2px;
+	padding: 5%;
+	font-size: 14px;
+	border-radius: 5px;
+	margin-top: 5%;
+	padding-left: 10%;
+	padding-right: 50%;
+}
+#Send{
+	background: #FFFFFF;
+	color: #0F1C49;
+	opacity: 100%;
+	margin-top: 21%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	padding-left: 30%;
+	padding-right: 0%;
+	margin-left: -62%;
+	font-weight: 500px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#Lorem {
+ 	margin-right: 13%
+ 	font-size: 16px;
+}
+.copyright{
+	background: #103365;
+	height: 100%;
+}
+.copyright p{
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	font-size: 14px;
+	color: rgba(255, 255, 255, 0.6);
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif; 
+}

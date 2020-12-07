@@ -1,0 +1,102 @@
+
+.BottomHome {
+	background: #0E418A;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.BottomHome p{
+	opacity: 60%;
+}
+.BottomHome h4{
+	margin-top: 165%;	
+	margin-bottom: 27%;
+	font-size: 20px;
+}
+.columnas p{
+	margin-bottom: 10%;
+	line-height: 28px;
+	font-size: 16px;
+	font-weight: normal;
+	font-family: 'Rubik', sans-serif;
+	margin-bottom: 7.5%;
+
+}
+.info {
+	left: 10%;
+	position: absolute;
+	padding-top: 13.5%;
+	width: 30%;
+}
+.info img{
+	position: ;
+}
+.redes_sociales img{
+	padding-right: 10%;
+	margin-top: 12%;
+}
+.divisor img{
+	padding-top: 6%;
+}
+.about_us img{
+	margin-top: 90.5%;
+	margin-bottom: 165%;
+}
+.about_us p{
+	margin-top: 13.3%;
+	margin-left: 3%;
+	line-height: 28px;
+	width: 85%;
+}
+.seccion2{
+	position: relative;
+}
+.stay_up{
+	position: absolute;
+	width: 100%;
+	margin-top: 5.5%;
+	margin-bottom: 10%;
+}
+#YourEmail{
+	border-color: #FFFFFF;
+	border: groove;
+	border-width: 2px;
+	padding: 5%;
+	font-size: 14px;
+	border-radius: 5px;
+	margin-top: 5%;
+	padding-left: 10%;
+	padding-right: 50%;
+}
+#Send{
+	background: #FFFFFF;
+	color: #0F1C49;
+	opacity: 100%;
+	margin-top: 21%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	padding-left: 30%;
+	padding-right: 0%;
+	margin-left: -62%;
+	font-weight: 500px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#Lorem {
+ 	margin-right: 13%
+ 	font-size: 16px;
+}
+.copyright{
+	background: #103365;
+	height: 100%;
+}
+.copyright p{
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	font-size: 14px;
+}
